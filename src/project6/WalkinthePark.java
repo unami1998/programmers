@@ -17,45 +17,42 @@ public class WalkinthePark {
         int currX = x;       // <- E는 +, W는 -
         int currY = y;        //<- N는 +, S는 -
 
-
         String[] direction_info;
         int distan;
         System.out.println();
 
         int[] answer = new int[2]; //이동한 값을 넣어줄거다
-
         for (int i = 0; i < routes.length; i++) {
             direction_info = routes[i].split(" "); //여기서 문자열로 분리할거다
             vector = direction_info[0]; // "W 2" 일 때 W
             distan = Integer.parseInt(direction_info[1]);  //W 2일 때 2
-
             if (vector.equals("E")) {
-                for (int j = 0; j <= distan; j++) {
+                for (int j = 0; j < distan; j++) {
                     currX++;  //currx만큼 distance 증가
-                    answer[1]++;
                     if (currX>= weight || park[currY].charAt(currX) == 'X') break;
                 }
+                x = currX;
             }
             else if (vector.equals("W")) {
-                for (int j = 0; j <= distan; j++) {
+                for (int j = 0; j < distan; j++) {
                     currX--;
-                    answer[0]--;
-                    if (currX<= weight ||park[currY].charAt(currX) == 'X') break;
-
+                    if (currX<0 ||park[currY].charAt(currX) == 'X') break;
                 }
+                x = currX;
+
             } else if (vector.equals("S")) {
-                for (int j = 0; j <= distan; j++) {
+                for (int j = 0; j < distan; j++) {
                     currY--;
-                    answer[1]--;
-                    if (currX>= height ||park[currY].charAt(currX) == 'X') break;
-
+                    if (currY>= height ||park[currY].charAt(currX) == 'X') break;
                 }
+                y = currY;
             } else {  //N
-                for (int j = 0; j <= distan; j++) {
+                for (int j = 0; j < distan; j++) {
                     currY++;
-                    answer[1]++;
+                    if (currY<0 || park[currY].charAt(currX) == 'X') break;
                 }
-                if (currX<= height || park[currY].charAt(currX) == 'X') break;
+                y = currY;
+
             }
         }
         answer[0]=y;
