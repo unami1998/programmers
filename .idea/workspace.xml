@@ -5,21 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="644849cb-688e-428c-acba-70b48ce98365" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project2/BinaryScale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project3/CreateFormat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project3/Format.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project4/CorrectBrackets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project4/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project5/MainMaratonRace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project5/MaratonRace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project6/MainWalkinthePark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project6/WalkinthePark.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Count_of_p_and_y_in_the_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project1/CountOfPandYinTheString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binaryScale.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/studyArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project5/MainMaratonRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project5/MainMaratonRace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project5/MaratonRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project5/MaratonRace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project6/MainWalkinthePark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project6/MainWalkinthePark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project6/WalkinthePark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project6/WalkinthePark.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +27,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2bS1rzmMDp63vMLrHwtW4iZQGu5" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -47,9 +38,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.MainMaratonRace.executor": "Run",
+    "Application.MainWalkinthePark.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "programmers",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/fpahs/Documents/카카오톡 받은 파일/testProgrammer/testProgrammer",
     "node.js.detected.package.eslint": "true",
@@ -60,7 +52,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MainWalkinthePark">
     <configuration name="MainMaratonRace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="project5.MainMaratonRace" />
       <module name="testProgrammer" />
@@ -74,11 +66,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainWalkinthePark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project6.MainWalkinthePark" />
+      <module name="testProgrammer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainWalkinthePark" />
         <item itemvalue="Application.MainMaratonRace" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-18.0.2-corretto-18.0.2-f644763e9732-da6bd485" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -89,6 +102,9 @@
       <option name="presentableId" value="Default" />
       <updated>1706193868336</updated>
       <workItem from="1706193869336" duration="4514000" />
+      <workItem from="1706229498435" duration="447000" />
+      <workItem from="1706231922272" duration="18234000" />
+      <workItem from="1706258999039" duration="639000" />
     </task>
     <servers />
   </component>
