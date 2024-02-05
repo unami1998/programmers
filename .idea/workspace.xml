@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="644849cb-688e-428c-acba-70b48ce98365" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/studyArray.java" afterDir="false" />
+    <list default="true" id="644849cb-688e-428c-acba-70b48ce98365" name="Changes" comment="요격시스템 문제 풀어라">
+      <change afterPath="$PROJECT_DIR$/src/RandomProject/RandomProject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paraPassing/paraPassing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project5/MainMaratonRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project5/MainMaratonRace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project5/MaratonRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project5/MaratonRace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project6/MainWalkinthePark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project6/MainWalkinthePark.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project6/WalkinthePark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project6/WalkinthePark.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,37 +33,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.MainMaratonRace.executor": "Run",
-    "Application.MainWalkinthePark.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "programmers",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/fpahs/Documents/카카오톡 받은 파일/testProgrammer/testProgrammer",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.MainMaratonRace.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainWalkinthePark.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;selfStudy&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/fpahs/Documents/카카오톡 받은 파일/testProgrammer/testProgrammer&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;애플리케이션.RandomProject.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.main.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.paraPassing.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.project7.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.MainWalkinthePark">
-    <configuration name="MainMaratonRace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="project5.MainMaratonRace" />
-      <module name="testProgrammer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="project5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="애플리케이션.project7">
     <configuration name="MainWalkinthePark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="project6.MainWalkinthePark" />
       <module name="testProgrammer" />
@@ -79,10 +68,58 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RandomProject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomProject.RandomProject" />
+      <module name="testProgrammer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RandomProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomProject.main" />
+      <module name="testProgrammer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RandomProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="paraPassing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="paraPassing.paraPassing" />
+      <module name="testProgrammer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="paraPassing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="project7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project7" />
+      <module name="testProgrammer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainWalkinthePark" />
-        <item itemvalue="Application.MainMaratonRace" />
+        <item itemvalue="애플리케이션.project7" />
+        <item itemvalue="애플리케이션.paraPassing" />
+        <item itemvalue="애플리케이션.RandomProject" />
+        <item itemvalue="애플리케이션.main" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +142,26 @@
       <workItem from="1706229498435" duration="447000" />
       <workItem from="1706231922272" duration="18234000" />
       <workItem from="1706258999039" duration="639000" />
+      <workItem from="1706284867976" duration="3560000" />
+      <workItem from="1706429637827" duration="10078000" />
+      <workItem from="1706442572951" duration="1494000" />
+      <workItem from="1706444102071" duration="65000" />
+      <workItem from="1706447074390" duration="736000" />
+      <workItem from="1706451495117" duration="23000" />
+      <workItem from="1706961456123" duration="631000" />
+      <workItem from="1707065319110" duration="1704000" />
+      <workItem from="1707129670930" duration="2941000" />
+      <workItem from="1707136383777" duration="3695000" />
     </task>
+    <task id="LOCAL-00001" summary="요격시스템 문제 풀어라">
+      <option name="closed" value="true" />
+      <created>1706444063879</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706444063879</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,5 +177,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="요격시스템 문제 풀어라" />
+    <option name="LAST_COMMIT_MESSAGE" value="요격시스템 문제 풀어라" />
   </component>
 </project>
