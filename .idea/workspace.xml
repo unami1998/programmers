@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="227b0628-4a85-4262-b0a3-86f00514e793" name="Changes" comment="home" />
+    <list default="true" id="227b0628-4a85-4262-b0a3-86f00514e793" name="Changes" comment="gdgd">
+      <change afterPath="$PROJECT_DIR$/src/project7/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project7/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project6/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project6/dateTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,55 +34,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ArrMain.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.CountOfPandYinTheString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainMaratonRace.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.arrMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.binaryScale.executor&quot;: &quot;Run&quot;,
-    &quot;Application.createFormat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.dateTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.playerNotComplete.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrMain.executor": "Debug",
+    "Application.CountOfPandYinTheString.executor": "Run",
+    "Application.MainMaratonRace.executor": "Debug",
+    "Application.arrMain.executor": "Run",
+    "Application.binaryScale.executor": "Run",
+    "Application.createFormat.executor": "Run",
+    "Application.dateTest.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.playerNotComplete.executor": "Run",
+    "Application.test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
       <recent name="project1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.dateTest">
+  <component name="RunManager" selected="Application.main">
     <configuration name="BinaryScale" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="project2.BinaryScale" />
       <module name="testProgrammer" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="project2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountOfPandYinTheString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="project1.CountOfPandYinTheString" />
-      <module name="testProgrammer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="project1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +92,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlayerNotComplete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="project5.PlayerNotComplete" />
+    <configuration name="dateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project6.dateTest" />
+      <module name="testProgrammer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project7.main" />
       <module name="testProgrammer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="project5.*" />
+          <option name="PATTERN" value="project7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,20 +112,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dateTest" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project7.test" />
       <module name="testProgrammer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.dateTest" />
         <item itemvalue="Application.MainMaratonRace" />
         <item itemvalue="Application.BinaryScale" />
-        <item itemvalue="Application.PlayerNotComplete" />
-        <item itemvalue="Application.CountOfPandYinTheString" />
       </list>
     </recent_temporary>
   </component>
@@ -156,6 +164,9 @@
       <workItem from="1706231917713" duration="57000" />
       <workItem from="1706856266271" duration="6579000" />
       <workItem from="1706867781746" duration="19000" />
+      <workItem from="1707366521257" duration="67000" />
+      <workItem from="1707784967157" duration="147000" />
+      <workItem from="1707794562141" duration="3597000" />
     </task>
     <task id="LOCAL-00001" summary="home">
       <option name="closed" value="true" />
@@ -165,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706867587788</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="gdgd">
+      <option name="closed" value="true" />
+      <created>1707366586349</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707366586349</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,7 +215,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="home" />
-    <option name="LAST_COMMIT_MESSAGE" value="home" />
+    <MESSAGE value="gdgd" />
+    <option name="LAST_COMMIT_MESSAGE" value="gdgd" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
