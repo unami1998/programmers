@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="227b0628-4a85-4262-b0a3-86f00514e793" name="Changes" comment="0213 gogo">
-      <change afterPath="$PROJECT_DIR$/src/Elevator/elevator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Elevator/elevator2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reflaction/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reflaction/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Synchronized/CounterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashMap_test/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mailSMTP/MailSMTP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/splitString/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.c" afterDir="false" />
+    <list default="true" id="227b0628-4a85-4262-b0a3-86f00514e793" name="Changes" comment="where going branch">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/splitString/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/splitString/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,47 +33,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrMain.executor": "Debug",
-    "Application.CountOfPandYinTheString.executor": "Run",
-    "Application.CounterTest.executor": "Run",
-    "Application.MainMaratonRace.executor": "Debug",
-    "Application.Synchronized연습.executor": "Run",
-    "Application.arrMain.executor": "Run",
-    "Application.binaryScale.executor": "Run",
-    "Application.createFormat.executor": "Run",
-    "Application.dateTest.executor": "Run",
-    "Application.elevator.executor": "Run",
-    "Application.elevator2.executor": "Run",
-    "Application.hashMap_test.main.executor": "Run",
-    "Application.main.executor": "Run",
-    "Application.playerNotComplete.executor": "Run",
-    "Application.test.executor": "Run",
-    "Application.type_conversion.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrMain.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.CountOfPandYinTheString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CounterTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainMaratonRace.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Synchronized연습.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arrMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.binaryScale.executor&quot;: &quot;Run&quot;,
+    &quot;Application.createFormat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dateTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.elevator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.elevator2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hashMap_test.main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.playerNotComplete.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.type_conversion.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
       <recent name="project1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.hashMap_test.main">
+  <component name="RunManager" selected="Application.main">
     <configuration name="elevator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Elevator.elevator" />
       <module name="testProgrammer" />
@@ -149,8 +141,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.hashMap_test.main" />
         <item itemvalue="Application.main" />
+        <item itemvalue="Application.hashMap_test.main" />
         <item itemvalue="Application.type_conversion" />
         <item itemvalue="Application.elevator2" />
         <item itemvalue="Application.elevator" />
@@ -204,6 +196,8 @@
       <workItem from="1718085556052" duration="1169000" />
       <workItem from="1718170315888" duration="9000" />
       <workItem from="1718261857097" duration="2210000" />
+      <workItem from="1718349928210" duration="250000" />
+      <workItem from="1718355610279" duration="1618000" />
     </task>
     <task id="LOCAL-00001" summary="home">
       <option name="closed" value="true" />
@@ -229,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707803052089</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="where going branch">
+      <option name="closed" value="true" />
+      <created>1718350034155</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718350034155</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,7 +264,8 @@
     <MESSAGE value="home" />
     <MESSAGE value="gdgd" />
     <MESSAGE value="0213 gogo" />
-    <option name="LAST_COMMIT_MESSAGE" value="0213 gogo" />
+    <MESSAGE value="where going branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="where going branch" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
