@@ -3,21 +3,6 @@ package project6;
 public class WalkinthePark {
     public int[] WalkinthePark(String[] park, String[] routes) {
 
-        //자세한 그림판으로 2차원 배열 설명 그림 -> https://www.notion.so/7452cc82e80f49ceab727405a9d7e3de
-        //니가 한 치명적인 실수->
-
-        //  if (currX>= weight || park[curryY].charAt(currX) == 'X') break;
-        // 이런식으로 할 때, for loop 밖에서 정의된 변수라 음수를 가질 수 있다
-        // 고로 for문 안에서 있는 변수명을 쓰거나 해라
-
-        //그리고 너가 또 한 한가지 실수
-        //Index -1 out of bounds for length 3 이건 배열에서 생기는 문제인데
-        //너는 그걸 알면서 for문을 수정하고 for문 안에 있는 변수들을 고치고있었다
-
-        //정확하게 오류가 난 이유 와 파란색 줄도 무시하지말고 제대로 봐라
-
-        //너 이거 하나 때문에 0126 이 날 하루 다 잡아먹었다 만만하게 생각하지말고 꼼꼼하게 봐
-
         int x = -1;
         int y = -1;
         int height = park.length - 1;        //공원 높이
