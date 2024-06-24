@@ -29,18 +29,23 @@ public class studyArray {
         }
         int startPoint = 0;
         int endPoint = N - 1; //하차 지점
-        int[] robot_road = new int[N * 2];  //<-robot_road는 robot_road[6] 인 상태   //robot_position
+        boolean[] robot_road = new boolean[N];  //<-robot_road는 robot_road[6] 인 상태   //robot_position
+
+//        for(int i =0; i<robot_road.length; i++){
+//            robot_road[i] = true;
+//        }
+
         while (K != count) { //k와 count가 같아지면 종료한다
-            for (int i = 2 * N - 1; i >=0; i--) { //로봇을 올리자
-                if (robot_road[i + 1] == 0 && robot_road[i] == 1 && belt[i] > 0) {
-                    robot_road[i] = 0;
-                    robot_road[i + 1] = 1;
-                    belt[i]--;
+            for (int i = 2 * N - 1; i >0; i--) { //로봇을 올리자
+//                if (!robot_road[i - 1] && robot_road[i] && belt[i] > 0) {
+                  //  robot_road[i] = 0;
+                    //robot_road[i - 1] = 1;
+                   // belt[i]--;
                     startPoint++;
 
-                    robot_road[endPoint] = 0;  //N일 때 로봇 하차시켜야함
+                //    robot_road[endPoint] = 0;  //N일 때 로봇 하차시켜야함
                     endPoint++;
-                    robot_road[startPoint]=1;
+              //      robot_road[startPoint]=1;
                     if (belt[i] == 0) {
                         count++;
                     }
@@ -52,7 +57,7 @@ public class studyArray {
                         endPoint = 0;
                     }
                 }
-            }
+            //}
             if (K == count) break;
         }
 

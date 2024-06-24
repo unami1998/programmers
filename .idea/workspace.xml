@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="644849cb-688e-428c-acba-70b48ce98365" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conveyor_belt/other_explan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project7/missile_defense.java" afterDir="false" />
+    <list default="true" id="644849cb-688e-428c-acba-70b48ce98365" name="Changes" comment="컨베이어벨트문제 다시다시">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project6/WalkinthePark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project6/WalkinthePark.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/studyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conveyor_belt/studyArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conveyor_belt/other_explan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conveyor_belt/other_explan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conveyor_belt/studyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conveyor_belt/studyArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +37,7 @@
     "Application.MainMaratonRace.executor": "Run",
     "Application.MainWalkinthePark.executor": "Run",
     "Application.main.executor": "Run",
-    "Application.other_explan.executor": "Run",
+    "Application.other_explan.executor": "Debug",
     "Application.studyArray.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -56,7 +53,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.studyArray">
+  <component name="RunManager" selected="Application.other_explan">
     <configuration name="MainMaratonRace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="project5.MainMaratonRace" />
       <module name="testProgrammer" />
@@ -111,8 +108,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.studyArray" />
         <item itemvalue="Application.other_explan" />
+        <item itemvalue="Application.studyArray" />
         <item itemvalue="Application.MainWalkinthePark" />
         <item itemvalue="Application.MainMaratonRace" />
       </list>
@@ -135,7 +132,18 @@
       <workItem from="1718719182160" duration="7000" />
       <workItem from="1718978643007" duration="1430000" />
       <workItem from="1719027613297" duration="17165000" />
+      <workItem from="1719156000440" duration="66000" />
+      <workItem from="1719237231526" duration="4737000" />
     </task>
+    <task id="LOCAL-00001" summary="컨베이어벨트문제 다시다시">
+      <option name="closed" value="true" />
+      <created>1719156034935</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719156034935</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +160,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="컨베이어벨트문제 다시다시" />
+    <option name="LAST_COMMIT_MESSAGE" value="컨베이어벨트문제 다시다시" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -159,11 +171,6 @@
           <url>file://$PROJECT_DIR$/src/conveyor_belt/studyArray.java</url>
           <line>21</line>
           <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/conveyor_belt/studyArray.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
