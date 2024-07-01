@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="644849cb-688e-428c-acba-70b48ce98365" name="Changes" comment="컨베이어벨트문제 다시다시">
-      <change afterPath="$PROJECT_DIR$/src/array/basic_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/change_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/divie_share.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/only_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rain/rain.java" afterDir="false" />
+    <list default="true" id="644849cb-688e-428c-acba-70b48ce98365" name="Changes" comment="rain 다시다시">
+      <change afterPath="$PROJECT_DIR$/src/rain/basic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rain/rain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rain/rain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,32 +32,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.MainMaratonRace.executor": "Run",
-    "Application.MainWalkinthePark.executor": "Run",
-    "Application.basic_sort.executor": "Run",
-    "Application.change_sort.executor": "Run",
-    "Application.divie_share.executor": "Run",
-    "Application.main.executor": "Run",
-    "Application.only_5.executor": "Run",
-    "Application.other_explan.executor": "Debug",
-    "Application.rain.executor": "Run",
-    "Application.studyArray.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "programmers",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/code/programmers",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.MainMaratonRace.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainWalkinthePark.executor&quot;: &quot;Run&quot;,
+    &quot;Application.basic_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.change_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.divie_share.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.only_5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.other_explan.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.rain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.studyArray.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;programmers&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/code/programmers&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.rain">
     <configuration name="basic_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.basic_sort" />
@@ -166,7 +162,9 @@
       <workItem from="1719237231526" duration="4737000" />
       <workItem from="1719393702431" duration="30000" />
       <workItem from="1719536377821" duration="15398000" />
-      <workItem from="1719558264239" duration="8517000" />
+      <workItem from="1719558264239" duration="9314000" />
+      <workItem from="1719795608558" duration="6000" />
+      <workItem from="1719800976533" duration="9654000" />
     </task>
     <task id="LOCAL-00001" summary="컨베이어벨트문제 다시다시">
       <option name="closed" value="true" />
@@ -176,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719156034935</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="rain 다시다시">
+      <option name="closed" value="true" />
+      <created>1719567789747</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719567789748</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,7 +201,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="컨베이어벨트문제 다시다시" />
-    <option name="LAST_COMMIT_MESSAGE" value="컨베이어벨트문제 다시다시" />
+    <MESSAGE value="rain 다시다시" />
+    <option name="LAST_COMMIT_MESSAGE" value="rain 다시다시" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
