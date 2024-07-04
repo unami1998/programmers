@@ -43,15 +43,15 @@ public class rain {
         }
 
 
-        int count=0;
-        for (int H = 0; H < land.length; H++) {  //높이
-            for (int j = 0; j < land[H].length; j++) { //가
-                if (land[H][p-1].contains("*") && land[H]) {
-                    count++;
-                }
-            }
-        }
-        System.out.print("count" + count);
+//        int count=0;
+//        for (int H = 0; H < land.length; H++) {  //높이
+//            for (int j = 0; j < land[H].length; j++) { //가
+//                if (land[H][p-1].contains("*") && land[H]) {
+//                    count++;
+//                }
+//            }
+//        }
+//        System.out.print("count" + count);
 
 
     }

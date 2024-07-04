@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="644849cb-688e-428c-acba-70b48ce98365" name="Changes" comment="rain 다시다시">
-      <change afterPath="$PROJECT_DIR$/src/rain/basic.java" afterDir="false" />
+    <list default="true" id="644849cb-688e-428c-acba-70b48ce98365" name="Changes" comment="rain 0703때 다시 풀기">
+      <change afterPath="$PROJECT_DIR$/src/array/binary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/improve_01/pack02/only_5_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/improve_01/pack02/only_5_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unsolvePro/ArrayPlus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unsolvePro/plus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/only_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/improve_01/pack02/only_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/rain/rain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rain/rain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,39 +37,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.MainMaratonRace.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainWalkinthePark.executor&quot;: &quot;Run&quot;,
-    &quot;Application.basic_sort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.change_sort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.divie_share.executor&quot;: &quot;Run&quot;,
-    &quot;Application.main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.only_5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.other_explan.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.rain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.studyArray.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;programmers&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/code/programmers&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayPlus.executor": "Debug",
+    "Application.MainMaratonRace.executor": "Run",
+    "Application.MainWalkinthePark.executor": "Run",
+    "Application.basic_sort.executor": "Run",
+    "Application.binary.executor": "Run",
+    "Application.change_sort.executor": "Run",
+    "Application.divie_share.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.only5.executor": "Run",
+    "Application.only_5.executor": "Run",
+    "Application.only_5_2.executor": "Run",
+    "Application.other_explan.executor": "Debug",
+    "Application.plus.executor": "Run",
+    "Application.rain.executor": "Run",
+    "Application.studyArray.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "programmers",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/code/programmers",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.rain">
-    <configuration name="basic_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.basic_sort" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="array.improve_01.pack02" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ArrayPlus">
+    <configuration name="ArrayPlus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unsolvePro.ArrayPlus" />
       <module name="testProgrammer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="unsolvePro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="change_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.change_sort" />
+    <configuration name="binary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.binary" />
       <module name="testProgrammer" />
       <extension name="coverage">
         <pattern>
@@ -90,7 +105,7 @@
       <module name="testProgrammer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="array.improve_01.pack02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="only_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.only_5" />
+    <configuration name="only5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.improve_01.pack02.only5" />
       <module name="testProgrammer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="array.improve_01.pack02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rain.rain" />
+    <configuration name="plus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unsolvePro.plus" />
       <module name="testProgrammer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rain.*" />
+          <option name="PATTERN" value="unsolvePro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.rain" />
+        <item itemvalue="Application.ArrayPlus" />
+        <item itemvalue="Application.plus" />
+        <item itemvalue="Application.only5" />
+        <item itemvalue="Application.binary" />
         <item itemvalue="Application.divie_share" />
-        <item itemvalue="Application.only_5" />
-        <item itemvalue="Application.change_sort" />
-        <item itemvalue="Application.basic_sort" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +179,11 @@
       <workItem from="1719536377821" duration="15398000" />
       <workItem from="1719558264239" duration="9314000" />
       <workItem from="1719795608558" duration="6000" />
-      <workItem from="1719800976533" duration="9654000" />
+      <workItem from="1719800976533" duration="9689000" />
+      <workItem from="1719882188339" duration="2455000" />
+      <workItem from="1719978499456" duration="1620000" />
+      <workItem from="1719983630764" duration="6168000" />
+      <workItem from="1720072666226" duration="4678000" />
     </task>
     <task id="LOCAL-00001" summary="컨베이어벨트문제 다시다시">
       <option name="closed" value="true" />
@@ -182,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719567789748</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="rain 0703때 다시 풀기">
+      <option name="closed" value="true" />
+      <created>1719818003420</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719818003420</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,7 +229,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="컨베이어벨트문제 다시다시" />
     <MESSAGE value="rain 다시다시" />
-    <option name="LAST_COMMIT_MESSAGE" value="rain 다시다시" />
+    <MESSAGE value="rain 0703때 다시 풀기" />
+    <option name="LAST_COMMIT_MESSAGE" value="rain 0703때 다시 풀기" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
