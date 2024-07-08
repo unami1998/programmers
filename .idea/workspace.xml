@@ -4,15 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="644849cb-688e-428c-acba-70b48ce98365" name="Changes" comment="rain 0703때 다시 풀기">
-      <change afterPath="$PROJECT_DIR$/src/array/binary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/improve_01/pack02/only_5_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/improve_01/pack02/only_5_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/unsolvePro/ArrayPlus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/unsolvePro/plus.java" afterDir="false" />
+    <list default="true" id="644849cb-688e-428c-acba-70b48ce98365" name="Changes" comment="ArrayPlus 해보자">
+      <change afterPath="$PROJECT_DIR$/src/unsolvePro/Remove_vowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unsolvePro/array_average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unsolvePro/compare_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unsolvePro/duplicateCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unsolvePro/ice_Americano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unsolvePro/similarityArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unsolvePro/string_in_string.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/only_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/improve_01/pack02/only_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rain/rain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rain/rain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +42,15 @@
     "Application.ArrayPlus.executor": "Debug",
     "Application.MainMaratonRace.executor": "Run",
     "Application.MainWalkinthePark.executor": "Run",
+    "Application.Remove_vowels.executor": "Run",
+    "Application.array_average.executor": "Run",
     "Application.basic_sort.executor": "Run",
     "Application.binary.executor": "Run",
     "Application.change_sort.executor": "Run",
+    "Application.compare_array.executor": "Run",
     "Application.divie_share.executor": "Run",
+    "Application.duplicateCount.executor": "Run",
+    "Application.ice_Americano.executor": "Run",
     "Application.main.executor": "Run",
     "Application.only5.executor": "Run",
     "Application.only_5.executor": "Run",
@@ -53,6 +58,8 @@
     "Application.other_explan.executor": "Debug",
     "Application.plus.executor": "Run",
     "Application.rain.executor": "Run",
+    "Application.similarityArray.executor": "Run",
+    "Application.string_in_string.executor": "Run",
     "Application.studyArray.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -73,9 +80,9 @@
       <recent name="array.improve_01.pack02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayPlus">
-    <configuration name="ArrayPlus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unsolvePro.ArrayPlus" />
+  <component name="RunManager" selected="Application.similarityArray">
+    <configuration name="Remove_vowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unsolvePro.Remove_vowels" />
       <module name="testProgrammer" />
       <extension name="coverage">
         <pattern>
@@ -87,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="binary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.binary" />
+    <configuration name="duplicateCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unsolvePro.duplicateCount" />
       <module name="testProgrammer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="unsolvePro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="divie_share" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.divie_share" />
+    <configuration name="ice_Americano" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unsolvePro.ice_Americano" />
       <module name="testProgrammer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.improve_01.pack02.*" />
+          <option name="PATTERN" value="unsolvePro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="only5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.improve_01.pack02.only5" />
+    <configuration name="similarityArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unsolvePro.similarityArray" />
       <module name="testProgrammer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.improve_01.pack02.*" />
+          <option name="PATTERN" value="unsolvePro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,8 +133,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="plus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unsolvePro.plus" />
+    <configuration name="string_in_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unsolvePro.string_in_string" />
       <module name="testProgrammer" />
       <extension name="coverage">
         <pattern>
@@ -141,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayPlus" />
-        <item itemvalue="Application.plus" />
-        <item itemvalue="Application.only5" />
-        <item itemvalue="Application.binary" />
-        <item itemvalue="Application.divie_share" />
+        <item itemvalue="Application.similarityArray" />
+        <item itemvalue="Application.string_in_string" />
+        <item itemvalue="Application.Remove_vowels" />
+        <item itemvalue="Application.ice_Americano" />
+        <item itemvalue="Application.duplicateCount" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +190,9 @@
       <workItem from="1719882188339" duration="2455000" />
       <workItem from="1719978499456" duration="1620000" />
       <workItem from="1719983630764" duration="6168000" />
-      <workItem from="1720072666226" duration="4678000" />
+      <workItem from="1720072666226" duration="4704000" />
+      <workItem from="1720406035963" duration="3307000" />
+      <workItem from="1720413126351" duration="4444000" />
     </task>
     <task id="LOCAL-00001" summary="컨베이어벨트문제 다시다시">
       <option name="closed" value="true" />
@@ -209,7 +218,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719818003420</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ArrayPlus 해보자">
+      <option name="closed" value="true" />
+      <created>1720078003337</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720078003337</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,7 +247,8 @@
     <MESSAGE value="컨베이어벨트문제 다시다시" />
     <MESSAGE value="rain 다시다시" />
     <MESSAGE value="rain 0703때 다시 풀기" />
-    <option name="LAST_COMMIT_MESSAGE" value="rain 0703때 다시 풀기" />
+    <MESSAGE value="ArrayPlus 해보자" />
+    <option name="LAST_COMMIT_MESSAGE" value="ArrayPlus 해보자" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
