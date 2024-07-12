@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="644849cb-688e-428c-acba-70b48ce98365" name="Changes" comment="ArrayPlus 해보자">
-      <change afterPath="$PROJECT_DIR$/src/unsolvePro/Remove_vowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/unsolvePro/array_average.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/unsolvePro/compare_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/unsolvePro/duplicateCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/unsolvePro/ice_Americano.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/unsolvePro/similarityArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/unsolvePro/string_in_string.java" afterDir="false" />
+    <list default="true" id="644849cb-688e-428c-acba-70b48ce98365" name="Changes" comment="내일한번더">
+      <change afterPath="$PROJECT_DIR$/src/Study0714/remote_smallValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Study0714/secret_map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level01/plus_minusPlus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conveyor_belt/studyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conveyor_belt/studyArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +54,11 @@
     "Application.only_5_2.executor": "Run",
     "Application.other_explan.executor": "Debug",
     "Application.plus.executor": "Run",
+    "Application.plus_minusPlus.executor": "Run",
     "Application.rain.executor": "Run",
-    "Application.similarityArray.executor": "Run",
+    "Application.remote_smallValue.executor": "Run",
+    "Application.secret_map.executor": "Run",
+    "Application.similarityArray.executor": "Debug",
     "Application.string_in_string.executor": "Run",
     "Application.studyArray.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -80,13 +80,13 @@
       <recent name="array.improve_01.pack02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.similarityArray">
-    <configuration name="Remove_vowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unsolvePro.Remove_vowels" />
+  <component name="RunManager" selected="Application.secret_map">
+    <configuration name="plus_minusPlus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level01.plus_minusPlus" />
       <module name="testProgrammer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="unsolvePro.*" />
+          <option name="PATTERN" value="level01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="duplicateCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unsolvePro.duplicateCount" />
+    <configuration name="remote_smallValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Study0714.remote_smallValue" />
       <module name="testProgrammer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="unsolvePro.*" />
+          <option name="PATTERN" value="Study0714.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ice_Americano" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unsolvePro.ice_Americano" />
+    <configuration name="secret_map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Study0714.secret_map" />
       <module name="testProgrammer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="unsolvePro.*" />
+          <option name="PATTERN" value="Study0714.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.secret_map" />
+        <item itemvalue="Application.remote_smallValue" />
+        <item itemvalue="Application.plus_minusPlus" />
         <item itemvalue="Application.similarityArray" />
         <item itemvalue="Application.string_in_string" />
-        <item itemvalue="Application.Remove_vowels" />
-        <item itemvalue="Application.ice_Americano" />
-        <item itemvalue="Application.duplicateCount" />
       </list>
     </recent_temporary>
   </component>
@@ -193,6 +193,14 @@
       <workItem from="1720072666226" duration="4704000" />
       <workItem from="1720406035963" duration="3307000" />
       <workItem from="1720413126351" duration="4444000" />
+      <workItem from="1720432111559" duration="38000" />
+      <workItem from="1720493380537" duration="2752000" />
+      <workItem from="1720576707678" duration="1352000" />
+      <workItem from="1720593334651" duration="112000" />
+      <workItem from="1720593470403" duration="56000" />
+      <workItem from="1720596347461" duration="6319000" />
+      <workItem from="1720659175800" duration="994000" />
+      <workItem from="1720771843399" duration="4544000" />
     </task>
     <task id="LOCAL-00001" summary="컨베이어벨트문제 다시다시">
       <option name="closed" value="true" />
@@ -226,7 +234,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720078003337</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="내일한번더">
+      <option name="closed" value="true" />
+      <created>1720432142400</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720432142400</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,7 +264,8 @@
     <MESSAGE value="rain 다시다시" />
     <MESSAGE value="rain 0703때 다시 풀기" />
     <MESSAGE value="ArrayPlus 해보자" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArrayPlus 해보자" />
+    <MESSAGE value="내일한번더" />
+    <option name="LAST_COMMIT_MESSAGE" value="내일한번더" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

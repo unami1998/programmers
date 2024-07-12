@@ -2,6 +2,8 @@ package conveyor_belt;
 
 import java.util.Scanner;
 
+
+
 public class studyArray {
 //    private static int Company(int belt_length, int k) {  //내구도 개숫가 k개 이상이라면 멈춘다
 //        //컨베이어 벨트도 같이 움직여야하기 때문에 이걸 이차원배열로 할지 고민하고
