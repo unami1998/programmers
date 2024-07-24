@@ -37,7 +37,7 @@ public class secret_map {
             answer[i] = "";
         }
         for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) { //맞댕 그럼 여기선
+            for (int j = 0; j < n; j++) { //맞아 그럼 여기선
                 if(binaryNumber1[i].charAt(j)=='1' || binaryNumber2[i].charAt(j)=='1'){
                     answer[i] += String.valueOf('#');
                 }

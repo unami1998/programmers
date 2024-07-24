@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="644849cb-688e-428c-acba-70b48ce98365" name="Changes" comment="secret_map 다시해봐">
-      <change afterPath="$PROJECT_DIR$/src/Study0714/testWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hash/HashrunnerNotFinish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hash/runnerNotFinish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hash/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Study0714/secret_map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Study0714/secret_map.java" afterDir="false" />
     </list>
@@ -32,60 +34,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ArrayPlus.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.MainMaratonRace.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainWalkinthePark.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Remove_vowels.executor&quot;: &quot;Run&quot;,
-    &quot;Application.array_average.executor&quot;: &quot;Run&quot;,
-    &quot;Application.basic_sort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.binary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.change_sort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.compare_array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.divie_share.executor&quot;: &quot;Run&quot;,
-    &quot;Application.duplicateCount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ice_Americano.executor&quot;: &quot;Run&quot;,
-    &quot;Application.main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.only5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.only_5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.only_5_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.other_explan.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.plus.executor&quot;: &quot;Run&quot;,
-    &quot;Application.plus_minusPlus.executor&quot;: &quot;Run&quot;,
-    &quot;Application.rain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.remote_smallValue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.secret_map.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.similarityArray.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.string_in_string.executor&quot;: &quot;Run&quot;,
-    &quot;Application.studyArray.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.testWhile.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;programmers&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/code/programmers&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayPlus.executor": "Debug",
+    "Application.HashrunnerNotFinish.executor": "Run",
+    "Application.MainMaratonRace.executor": "Run",
+    "Application.MainWalkinthePark.executor": "Run",
+    "Application.Remove_vowels.executor": "Run",
+    "Application.array_average.executor": "Run",
+    "Application.basic_sort.executor": "Run",
+    "Application.binary.executor": "Run",
+    "Application.change_sort.executor": "Run",
+    "Application.compare_array.executor": "Run",
+    "Application.divie_share.executor": "Run",
+    "Application.duplicateCount.executor": "Run",
+    "Application.ice_Americano.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.only5.executor": "Run",
+    "Application.only_5.executor": "Run",
+    "Application.only_5_2.executor": "Run",
+    "Application.other_explan.executor": "Debug",
+    "Application.plus.executor": "Run",
+    "Application.plus_minusPlus.executor": "Run",
+    "Application.rain.executor": "Run",
+    "Application.remote_smallValue.executor": "Run",
+    "Application.runnerNotFinish.executor": "Run",
+    "Application.secret_map.executor": "Debug",
+    "Application.similarityArray.executor": "Debug",
+    "Application.string_in_string.executor": "Run",
+    "Application.studyArray.executor": "Debug",
+    "Application.test.executor": "Run",
+    "Application.testWhile.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "programmers",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/code/programmers",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="array.improve_01.pack02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.secret_map">
-    <configuration name="plus_minusPlus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level01.plus_minusPlus" />
+  <component name="RunManager" selected="Application.HashrunnerNotFinish">
+    <configuration name="HashrunnerNotFinish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hash.HashrunnerNotFinish" />
       <module name="testProgrammer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level01.*" />
+          <option name="PATTERN" value="hash.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="remote_smallValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Study0714.remote_smallValue" />
+    <configuration name="runnerNotFinish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hash.runnerNotFinish" />
       <module name="testProgrammer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Study0714.*" />
+          <option name="PATTERN" value="hash.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="similarityArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unsolvePro.similarityArray" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hash.test" />
       <module name="testProgrammer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="unsolvePro.*" />
+          <option name="PATTERN" value="hash.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashrunnerNotFinish" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.runnerNotFinish" />
         <item itemvalue="Application.secret_map" />
         <item itemvalue="Application.testWhile" />
-        <item itemvalue="Application.remote_smallValue" />
-        <item itemvalue="Application.plus_minusPlus" />
-        <item itemvalue="Application.similarityArray" />
       </list>
     </recent_temporary>
   </component>
@@ -204,6 +209,14 @@
       <workItem from="1721006342583" duration="4726000" />
       <workItem from="1721018579238" duration="401000" />
       <workItem from="1721123500311" duration="25000" />
+      <workItem from="1721123583088" duration="318000" />
+      <workItem from="1721124096183" duration="33000" />
+      <workItem from="1721279110664" duration="204000" />
+      <workItem from="1721284630263" duration="4503000" />
+      <workItem from="1721361215621" duration="42000" />
+      <workItem from="1721378428639" duration="795000" />
+      <workItem from="1721704417296" duration="1414000" />
+      <workItem from="1721789842869" duration="8889000" />
     </task>
     <task id="LOCAL-00001" summary="컨베이어벨트문제 다시다시">
       <option name="closed" value="true" />
@@ -278,12 +291,5 @@
     <MESSAGE value="내일한번더" />
     <MESSAGE value="secret_map 다시해봐" />
     <option name="LAST_COMMIT_MESSAGE" value="secret_map 다시해봐" />
-  </component>
-  <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="count" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>
