@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="644849cb-688e-428c-acba-70b48ce98365" name="Changes" comment="secret_map 다시해봐">
-      <change afterPath="$PROJECT_DIR$/src/hash/HashrunnerNotFinish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hash/runnerNotFinish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hash/test.java" afterDir="false" />
+    <list default="true" id="644849cb-688e-428c-acba-70b48ce98365" name="Changes" comment="완주하지못한선수풀음">
+      <change afterPath="$PROJECT_DIR$/src/ascIIchar/change.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inerfaceTest/SayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inerfaceTest/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project0725.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Study0714/secret_map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Study0714/secret_map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hash/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hash/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -41,9 +43,11 @@
     "Application.MainMaratonRace.executor": "Run",
     "Application.MainWalkinthePark.executor": "Run",
     "Application.Remove_vowels.executor": "Run",
+    "Application.Test.executor": "Run",
     "Application.array_average.executor": "Run",
     "Application.basic_sort.executor": "Run",
     "Application.binary.executor": "Run",
+    "Application.change.executor": "Run",
     "Application.change_sort.executor": "Run",
     "Application.compare_array.executor": "Run",
     "Application.divie_share.executor": "Run",
@@ -84,13 +88,39 @@
       <recent name="array.improve_01.pack02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HashrunnerNotFinish">
+  <component name="RunManager" selected="Application.change">
     <configuration name="HashrunnerNotFinish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hash.HashrunnerNotFinish" />
       <module name="testProgrammer" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="hash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inerfaceTest.Test" />
+      <module name="testProgrammer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inerfaceTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="change" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ascIIchar.change" />
+      <module name="testProgrammer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ascIIchar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,19 +141,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="secret_map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Study0714.secret_map" />
-      <module name="testProgrammer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Study0714.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hash.test" />
       <module name="testProgrammer" />
@@ -137,26 +154,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Study0714.testWhile" />
-      <module name="testProgrammer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Study0714.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.change" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.HashrunnerNotFinish" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.runnerNotFinish" />
-        <item itemvalue="Application.secret_map" />
-        <item itemvalue="Application.testWhile" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +220,12 @@
       <workItem from="1721361215621" duration="42000" />
       <workItem from="1721378428639" duration="795000" />
       <workItem from="1721704417296" duration="1414000" />
-      <workItem from="1721789842869" duration="8889000" />
+      <workItem from="1721789842869" duration="9134000" />
+      <workItem from="1721894340949" duration="59000" />
+      <workItem from="1721899135217" duration="70000" />
+      <workItem from="1722834731401" duration="366000" />
+      <workItem from="1722835478962" duration="270000" />
+      <workItem from="1724029631506" duration="325000" />
     </task>
     <task id="LOCAL-00001" summary="컨베이어벨트문제 다시다시">
       <option name="closed" value="true" />
@@ -266,7 +275,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720776574346</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="완주하지못한선수풀음">
+      <option name="closed" value="true" />
+      <created>1721805912279</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721805912279</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,6 +307,7 @@
     <MESSAGE value="ArrayPlus 해보자" />
     <MESSAGE value="내일한번더" />
     <MESSAGE value="secret_map 다시해봐" />
-    <option name="LAST_COMMIT_MESSAGE" value="secret_map 다시해봐" />
+    <MESSAGE value="완주하지못한선수풀음" />
+    <option name="LAST_COMMIT_MESSAGE" value="완주하지못한선수풀음" />
   </component>
 </project>

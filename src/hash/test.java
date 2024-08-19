@@ -25,6 +25,7 @@ public class test {
         //System.out.print(map);
 
         Loop(part);
+
     }
 
 }
